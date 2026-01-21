@@ -9,6 +9,6 @@ The mod only works properly if you start a new game.
 
 Requires:
 
-Automatron
-Far Harbor
-Nuka World
+- Automatron
+- Far Harbor
+- Nuka World
